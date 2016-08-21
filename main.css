@@ -1,8 +1,14 @@
-div{
+div {
 	background-color: azure;
 	border: 1px solid
 	aquamarine;
 	padding: 30px;
 }
-p{
+
+p {
 	background-color: green;
+}
+
+.pull-right {
+	float: right;
+}
