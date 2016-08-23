@@ -5,9 +5,7 @@ div {
 	padding: 30px;
 }
 
-p {
-	background-color: green;
-}
+header{color: red;}
 
 .pull-right {
 	float: right;
